@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "id": "aegis-policy-engine",
+      "name": "AEGIS Policy Engine",
+      "description": "AIエージェントの自然言語ポリシー制御システム",
+      "storeId": "fileSearchStores/nodejs-demo-knowledge-base-z87iyfbhk8oj",
+      "path": "/Users/shingo/Develop/aegis-policy-engine",
+      "createdAt": "2025-11-16T09:00:00.000Z",
+      "fileCount": 211
+    },
+    {
+      "id": "project-1763310735528",
+      "name": "Test Small Project",
+      "description": "Small test with public folder only",
+      "storeId": "fileSearchStores/test-small-project-n46sfl59tn3d",
+      "path": "/Users/shingo/Develop/gemini-file-search-demo/public",
+      "createdAt": "2025-11-16T16:32:15.528Z",
+      "fileCount": 1
+    },
+    {
+      "id": "project-1763311203590",
+      "name": "RAG Demo Fixed",
+      "description": "Testing INVALID_ARGUMENT fixes",
+      "storeId": "fileSearchStores/rag-demo-fixed-yyzl50iunkdw",
+      "path": "/Users/shingo/Develop/gemini-file-search-demo",
+      "createdAt": "2025-11-16T16:40:03.591Z",
+      "fileCount": 10
+    }
+  ]
+}

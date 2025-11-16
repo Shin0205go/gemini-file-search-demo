@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "gemini-rag": {
+      "command": "node",
+      "args": [
+        "/Users/shingo/Develop/gemini-file-search-demo/mcp-server.js"
+      ],
+      "env": {
+        "GEMINI_API_KEY": ""
+      }
+    }
+  }
+}

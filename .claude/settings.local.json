@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:ai.google.dev)",
+      "WebSearch",
+      "Bash(node index.js)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(timeout:*)",
+      "Bash(node:*)",
+      "Bash(chmod:*)",
+      "Bash(npx @modelcontextprotocol/inspector node:*)",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_click",
+      "mcp__playwright__browser_press_key",
+      "mcp__playwright__browser_type",
+      "mcp__playwright__browser_wait_for",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__playwright__browser_fill_form",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nfeat: Implement Gemini RAG MCP server with background upload\n\n- Create MCP server with 5 tools: list_projects, create_project, get_upload_status, delete_project, search_project\n- Implement background file upload with batch processing (5 files at a time)\n- Add real-time progress reporting via stderr\n- Fix INVALID_ARGUMENT errors by using text/plain MIME type for code files\n- Add file name sanitization and empty file checks\n- Implement early response strategy to avoid MCP timeout\n- Add detailed error handling with operation status checks\n- Create web interface with Express.js for project management\n- Add upload status tracking with get_upload_status tool\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
