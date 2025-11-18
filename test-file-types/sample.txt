@@ -1,0 +1,3 @@
+This is a plain text file for testing RAG.
+It contains some sample content about programming.
+Programming languages include Python, JavaScript, TypeScript, and Go.

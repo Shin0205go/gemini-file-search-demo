@@ -1,0 +1,6 @@
+id,name,email,role,status
+1,John Doe,john@example.com,Admin,Active
+2,Jane Smith,jane@example.com,User,Active
+3,Bob Johnson,bob@example.com,User,Inactive
+4,Alice Williams,alice@example.com,Manager,Active
+5,Charlie Brown,charlie@example.com,User,Active

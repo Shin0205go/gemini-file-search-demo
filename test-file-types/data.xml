@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <name>Test Project</name>
+    <version>1.0.0</version>
+    <dependencies>
+        <dependency>
+            <name>library-a</name>
+            <version>2.3.0</version>
+        </dependency>
+        <dependency>
+            <name>library-b</name>
+            <version>1.5.2</version>
+        </dependency>
+    </dependencies>
+</project>

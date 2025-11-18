@@ -1,0 +1,10 @@
+name: test-project
+version: 1.0.0
+settings:
+  debug: true
+  maxRetries: 3
+  timeout: 5000
+features:
+  - authentication
+  - logging
+  - caching

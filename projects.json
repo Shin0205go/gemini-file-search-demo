@@ -1,31 +1,22 @@
 {
   "projects": [
     {
-      "id": "aegis-policy-engine",
-      "name": "AEGIS Policy Engine",
-      "description": "AIエージェントの自然言語ポリシー制御システム",
-      "storeId": "fileSearchStores/nodejs-demo-knowledge-base-z87iyfbhk8oj",
-      "path": "/Users/shingo/Develop/aegis-policy-engine",
-      "createdAt": "2025-11-16T09:00:00.000Z",
-      "fileCount": 211
+      "id": "project-9382961d-66cb-477c-8d74-3b686fc1bbe0",
+      "name": "File Types Test",
+      "description": "Testing various file extensions for RAG",
+      "storeId": "fileSearchStores/file-types-test-ti3cyse7nsf0",
+      "path": "/Users/shingo/Develop/gemini-file-search-demo/test-file-types",
+      "createdAt": "2025-11-18T16:56:37.201Z",
+      "fileCount": 0
     },
     {
-      "id": "project-1763310735528",
-      "name": "Test Small Project",
-      "description": "Small test with public folder only",
-      "storeId": "fileSearchStores/test-small-project-n46sfl59tn3d",
-      "path": "/Users/shingo/Develop/gemini-file-search-demo/public",
-      "createdAt": "2025-11-16T16:32:15.528Z",
-      "fileCount": 1
-    },
-    {
-      "id": "project-1763311203590",
-      "name": "RAG Demo Fixed",
-      "description": "Testing INVALID_ARGUMENT fixes",
-      "storeId": "fileSearchStores/rag-demo-fixed-yyzl50iunkdw",
-      "path": "/Users/shingo/Develop/gemini-file-search-demo",
-      "createdAt": "2025-11-16T16:40:03.591Z",
-      "fileCount": 10
+      "id": "project-77e81062-101a-4658-831b-24a5631c2961",
+      "name": "File Format RAG Test",
+      "description": "Testing 21 file formats: txt, md, csv, js, ts, py, java, go, rs, sh, html, css, xml, json, yaml, tex, xlsx, pdf, png, jpg, pptx",
+      "storeId": "fileSearchStores/file-format-rag-test-v1ocxh1zqx4z",
+      "path": "/Users/shingo/Develop/gemini-file-search-demo/test-file-types",
+      "createdAt": "2025-11-18T17:02:56.979Z",
+      "fileCount": 19
     }
   ]
 }
